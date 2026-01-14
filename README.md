@@ -71,7 +71,7 @@ Furthermore, due to the use of a distillation objective, we deliver our custom t
 
 Our training scripts are under `LLaMA-Factory/scripts`. 
 
-And our dataset for continual pre-training is downloaded from [RedPajama-Sample](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T-Sample). 
+And our dataset for continual pre-training is downloaded from [RedPajama-Sample](https://huggingface.co/datasets/QunQun/RedPajama_Sample_1T). 
 
 After downloading all of them, organize the data as follows:
 ```
